@@ -1,7 +1,7 @@
 CyAutoGeoTag
 ============
 
-An automated GPS tagger for images those have missing GPS data. Also integrated with [Google Picasa](http://picasa.google.com/).
+An automated GPS tagger for images those have missing GPS data, implemented with C#. Also integrated with [Google Picasa](http://picasa.google.com/).
 
 ###Summary
 This program reads some image names from arguments, and based on images with GPS data, it simply deciedes best GPS tag for the ones that lacks GPS info and saves them.
