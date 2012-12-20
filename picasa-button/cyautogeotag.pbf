@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<buttons format="1" version="1">
+  <button id="custombutton/photoshop_cs" type="dynamic">
+    <tooltip>Automatic GeoTagging</tooltip>
+    <label>Auto GeoTag</label>
+    <action verb="trayexec">
+		<param name="exe_name" value="CyAutoGeoTag.exe"/>	
+		<param  name="exe_path" value="C:\Users\CyBoRG\Documents\Visual Studio 2008\Projects\CyAutoGeoTag\CyAutoGeoTag\bin\Release"/>
+    </action>
+  </button>
+</buttons>
+ 

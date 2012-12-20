@@ -1,0 +1,6 @@
+This is the button for Picasa.
+You have to put it under Picasa3\buttons. Fullpath is generally under C:\Program Files (x86)\Google\Picasa3\buttons
+You can open the file with notepad and you must change the '<param  name="exe_path"'  attribute to location that you keep the exe.
+After that, just select some GPS tagged photos with GPSless ones and click the button.
+
+More info about custom Picasa buttons: http://googlecode.blogspot.com/2008/03/add-your-own-buttons-to-picasa-upload.html

@@ -1,0 +1,8 @@
+C:\Users\CyBoRG\Documents\Visual Studio 2008\Projects\CyAutoGeoTag\ExifLibrary\bin\Release\ExifLibrary.dll.config
+C:\Users\CyBoRG\Documents\Visual Studio 2008\Projects\CyAutoGeoTag\ExifLibrary\bin\Release\ExifLibrary.dll
+C:\Users\CyBoRG\Documents\Visual Studio 2008\Projects\CyAutoGeoTag\ExifLibrary\bin\Release\ExifLibrary.pdb
+C:\Users\CyBoRG\Documents\Visual Studio 2008\Projects\CyAutoGeoTag\ExifLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\CyBoRG\Documents\Visual Studio 2008\Projects\CyAutoGeoTag\ExifLibrary\obj\Release\ExifLibrary.BinaryMapViewer.resources
+C:\Users\CyBoRG\Documents\Visual Studio 2008\Projects\CyAutoGeoTag\ExifLibrary\obj\Release\ExifLibrary.csproj.GenerateResource.Cache
+C:\Users\CyBoRG\Documents\Visual Studio 2008\Projects\CyAutoGeoTag\ExifLibrary\obj\Release\ExifLibrary.dll
+C:\Users\CyBoRG\Documents\Visual Studio 2008\Projects\CyAutoGeoTag\ExifLibrary\obj\Release\ExifLibrary.pdb

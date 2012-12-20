@@ -1,0 +1,6 @@
+C:\Users\CyBoRG\Documents\Visual Studio 2008\Projects\CyAutoGeoTag\CyAutoGeoTag\bin\Release\CyAutoGeoTag.exe
+C:\Users\CyBoRG\Documents\Visual Studio 2008\Projects\CyAutoGeoTag\CyAutoGeoTag\bin\Release\CyAutoGeoTag.pdb
+C:\Users\CyBoRG\Documents\Visual Studio 2008\Projects\CyAutoGeoTag\CyAutoGeoTag\obj\Release\CyAutoGeoTag.exe
+C:\Users\CyBoRG\Documents\Visual Studio 2008\Projects\CyAutoGeoTag\CyAutoGeoTag\obj\Release\CyAutoGeoTag.pdb
+C:\Users\CyBoRG\Documents\Visual Studio 2008\Projects\CyAutoGeoTag\CyAutoGeoTag\bin\Release\ExifLibrary.dll
+C:\Users\CyBoRG\Documents\Visual Studio 2008\Projects\CyAutoGeoTag\CyAutoGeoTag\obj\Release\CyAutoGeoTag.csprojResolveAssemblyReference.cache
