@@ -18,3 +18,5 @@ This program deciedes the location by reading timestamp on pictures and calculat
 Although you can use that program as batch, It migth be useful to use with Picasa. So you can order photos by time, and while browsing, select related photos and click the Auto Geo Tag button.
 More information about Picasa button is under picasa-button folder.
 
+--
+Development enviroment: Visual Studio 2012, .NET 4.5, WIN7
